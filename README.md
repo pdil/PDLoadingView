@@ -8,7 +8,7 @@ Download `PDLoadingView.swift` and add it to your iOS project.
 
 * Create the view
 ``` swift
-  let loadingView = PDLoadingView(foreColore: .blue)
+  let loadingView = PDLoadingView(foreColor: .blue)
 ```
 
 * Start with a message
