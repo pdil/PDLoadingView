@@ -30,7 +30,7 @@ Download `PDLoadingView.swift` and add it to your iOS project.
   }
 ```
 
-* End loading
+* Finish loading
 ``` swift
   loadingView.end()
 ```
