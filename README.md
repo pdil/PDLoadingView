@@ -1,3 +1,6 @@
+#### _This library is still a work in progress, as such not all features may work at this time._
+_Feel free to submit pull requests, however._
+
 # PDLoadingView
 
 ## Installation
