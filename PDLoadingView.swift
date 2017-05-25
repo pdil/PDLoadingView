@@ -1,6 +1,5 @@
 //
 //  PDLoadingView.swift
-//  FoodEase
 //
 //  Created by Paolo Di Lorenzo on 4/27/17.
 //  Copyright © 2017 Paolo Di Lorenzo. All rights reserved.
