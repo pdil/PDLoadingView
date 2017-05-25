@@ -5,7 +5,7 @@ _Feel free to submit pull requests, however._
 
 ## Installation
 
-Download `PDLoadingView.swift` and add it to your iOS project.
+Download [`PDLoadingView.swift`](https://github.com/pdil/PDLoadingView/blob/master/PDLoadingView.swift) and add it to your iOS project.
 
 ## Usage
 
