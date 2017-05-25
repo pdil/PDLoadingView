@@ -21,7 +21,7 @@ Download `PDLoadingView.swift` and add it to your iOS project.
 
 * Start with no message
 ``` swift
-  loadingView.start(with: "")
+  loadingView.start()
 ```
 
 ![no message](https://media.giphy.com/media/xUPGcInptzpKGyS9Mc/giphy.gif)
