@@ -102,7 +102,7 @@ class PDLoadingView: UIView {
 
   // MARK: - Loading Flow
 
-  func start(with message: String) {
+  func start(with message: String = "") {
     set(message: message)
     UIView.animate(withDuration: 0.25) { self.alpha = 1 }
 
